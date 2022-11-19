@@ -1,0 +1,18 @@
+ Script fais par evann™
+
+
+
+ Pour add ca dans vos menu f5 rui
+
+ rendez vous dans les boutons "regarder sa carte" et "montrer sa carte" et ajouter ca :
+
+ ExecutCommand("evId")
+
+ ou alors :
+
+ regarder sa carte =  ExecutCommand("SeeMyIdCard")
+ montrer sa carte = ExecutCommand("ShowMyIdCard")
+
+;)
+
+ Voilaa suuuuuuiiii
